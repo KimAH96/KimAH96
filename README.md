@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimAH96
 - 👀 I’m interested in F1, football (soccer) and to learn new technology
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Python, HTML, CSS and Figma
 - 🤓 I’m currently studying information science at University of Bergen 
 - 📫 How to reach me: email kimahalvorsen@hotmail.com
 
